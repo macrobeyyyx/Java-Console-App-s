@@ -29,10 +29,6 @@ Bu Java uygulaması, basit bir kafe yönetim sistemi sunar. Kullanıcı, menü �
 
 Bu uygulama, daha karmaşık bir uçak rezervasyon sistemi sunar. Kullanıcılar uçuşları görebilir, koltuk seçebilir ve rezervasyon yapabilir. Ayrıca, rezervasyonları yönetme yeteneği sunar.
 
-## Nasıl Kullanılır
-
-Her bir projeyi çalıştırmak ve kullanmak için projenin kendi README dosyasına veya klasörüne yönlendiren bağlantıları takip edin.
-
 ## Lisans
 
 Bu projelerin her biri MIT Lisansı altında lisanslanmıştır - ayrıntılar için her projenin kendi README dosyasına bakın.
